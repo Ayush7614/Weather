@@ -16,3 +16,4 @@ I have created a weather app where you can enter any city name and you will get 
 #### Dependencies
 - Openweathermap API. After logging in openweathermap site go to this 🔗 [site](https://openweathermap.org/api/) and get your API key.
 
+Check live demo here [demo](https://ayush7614.github.io/Weather/)
