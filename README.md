@@ -4,6 +4,8 @@ I have created a weather app where you can enter any city name and you will get 
 
 ![]()
  
+ ![Weather](https://socialify.git.ci/Ayush7614/Weather/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
 ####  Features:
 - Search weather info using city
 - View temperature
